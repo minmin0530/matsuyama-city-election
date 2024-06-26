@@ -4,3 +4,4 @@
 - [Distribution 市内中学校生徒にiPadを1人に1つずつ配布](https://github.com/minmin0530/matsuyama-city-election/blob/main/docs/distribution-ipad.md)
 - [Datacenter 松山市にデータセンターを誘致](https://github.com/minmin0530/matsuyama-city-election/blob/main/docs/datacenter.md)
 - [Discord 松山Discordを開設](https://github.com/minmin0530/matsuyama-city-election/blob/main/docs/discord.md)
+- [Art 美術大学を松山に設立する](https://github.com/minmin0530/matsuyama-city-election/blob/main/docs/art-college.md)
