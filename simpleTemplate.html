@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{title}}</title>
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    <ul>
+    {{foreach items as item}}
+      {{if item != 'Banana'}}
+      <li><strong>{{item}}</strong> (This is a banana!)</li>
+      {{else}}
+      <li>none</li>
+      {{/if}}
+    {{/foreach}}
+    </ul>
+  </body>
+</html>
